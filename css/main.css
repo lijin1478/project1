@@ -1,0 +1,53 @@
+.nav a {
+    color: #405D7B;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 60px 10px;
+    text-transform: uppercase;
+}
+
+.nav li {
+    display: inline;
+}
+
+.jumbotron {
+    height: 500px;
+    background-image: url(../img/Hermes_09.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron .container {
+    position: relative;
+    top: 15px;
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 1px;
+}
+
+.jumbotron h1 {
+    color: #E74C3C;
+    font-weight: bolder;
+}
+
+h1 small {
+    color: #3C97E7;
+}
+
+.jumbotron p {
+    font-size: 15px;
+    color: #516675;
+}
+
+.neighborhood-guides .container p {
+    font-size: 15px;
+}
+
+.container .caption p {
+    font-size: 10px;
+    color: gray;
+}
+
+footer .footer-below {
+    background-color: #ACBFDD;
+}
